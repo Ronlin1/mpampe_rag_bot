@@ -1,4 +1,5 @@
-# mpampe_rag_bot
+# MpaMpe Assistant
+This chatbot will assist users from creating campaigns, giving information and helping them on the platform.
 
 Azure App Service: https://mpampebot.azurewebsites.net/
 
