@@ -1,0 +1,6 @@
+flask
+urllib3
+openai==0.28.1
+unittest
+os
+requests
